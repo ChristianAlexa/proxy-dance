@@ -1,0 +1,6 @@
+{
+  "packgeNames": [
+    "package-name-that-requires-proxy",
+    "another-package-name-that-requires-proxy"
+  ]
+}
